@@ -12,19 +12,34 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0525-contiguous-array) |
+| [0621-task-scheduler](https://github.com/mayankkk04/Leet_Daily/tree/master/0621-task-scheduler) |
 | [1256-rank-transform-of-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/1256-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0525-contiguous-array) |
+| [0621-task-scheduler](https://github.com/mayankkk04/Leet_Daily/tree/master/0621-task-scheduler) |
 | [1256-rank-transform-of-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/1256-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/mayankkk04/Leet_Daily/tree/master/0621-task-scheduler) |
 | [1256-rank-transform-of-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/1256-rank-transform-of-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0525-contiguous-array) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/mayankkk04/Leet_Daily/tree/master/0621-task-scheduler) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/mayankkk04/Leet_Daily/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/mayankkk04/Leet_Daily/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
