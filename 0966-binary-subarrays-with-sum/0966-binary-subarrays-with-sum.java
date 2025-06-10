@@ -1,17 +1,28 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
         int n = nums.length;
-        HashMap<Integer,Integer> map = new HashMap<>();
-        int sum = 0;
-        int cnt = 0;
-        map.put(0,1);
-        for(int i = 0 ; i < n ; i++){
-            sum += nums[i];
-            if(map.containsKey(sum - goal)){
-                cnt += map.get(sum-goal);
+        int res = 0;
+        int cntzero = 0;
+        int winsum = 0;
+        int i = 0;
+        int j = 0;
+        while(j < n){
+            winsum += nums[j];
+            while(i < j && (nums[i] == 0 || winsum > goal) ){
+                if(nums[i] == 1){
+                    cntzero = 0;
+                }
+                else{
+                    cntzero++;
+                }
+                winsum -= nums[i];
+                i++;
             }
-            map.put(sum,map.getOrDefault(sum,0)+1);
+            if(winsum == goal){
+                res += 1+cntzero;
+            }
+            j++;
         }
-        return cnt;
+        return res;
     }
 }
