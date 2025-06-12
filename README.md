@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/mayankkk04/Leet_Daily/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/mayankkk04/Leet_Daily/tree/master/0658-find-k-closest-elements) |
 | [0876-hand-of-straights](https://github.com/mayankkk04/Leet_Daily/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/1256-rank-transform-of-an-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/mayankkk04/Leet_Daily/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/mayankkk04/Leet_Daily/tree/master/0658-find-k-closest-elements) |
 | [0876-hand-of-straights](https://github.com/mayankkk04/Leet_Daily/tree/master/0876-hand-of-straights) |
 | [1256-rank-transform-of-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/1256-rank-transform-of-an-array) |
 ## Prefix Sum
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/mayankkk04/Leet_Daily/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/mayankkk04/Leet_Daily/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mayankkk04/Leet_Daily/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Counting
 |  |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/mayankkk04/Leet_Daily/tree/master/0658-find-k-closest-elements) |
 | [0966-binary-subarrays-with-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/0966-binary-subarrays-with-sum) |
 ## Depth-First Search
 |  |
@@ -79,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/mayankkk04/Leet_Daily/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mayankkk04/Leet_Daily/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -101,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/mayankkk04/Leet_Daily/tree/master/1582-design-browser-history) |
+## Two Pointers
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/mayankkk04/Leet_Daily/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
