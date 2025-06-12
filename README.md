@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/mayankkk04/Leet_Daily/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/1256-rank-transform-of-an-array) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mayankkk04/Leet_Daily/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
