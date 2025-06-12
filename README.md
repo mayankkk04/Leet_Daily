@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/mayankkk04/Leet_Daily/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/1256-rank-transform-of-an-array) |
+| [1582-design-browser-history](https://github.com/mayankkk04/Leet_Daily/tree/master/1582-design-browser-history) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mayankkk04/Leet_Daily/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mayankkk04/Leet_Daily/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1582-design-browser-history](https://github.com/mayankkk04/Leet_Daily/tree/master/1582-design-browser-history) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -86,4 +88,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mayankkk04/Leet_Daily/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1582-design-browser-history](https://github.com/mayankkk04/Leet_Daily/tree/master/1582-design-browser-history) |
+## Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/mayankkk04/Leet_Daily/tree/master/1582-design-browser-history) |
+## Stack
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/mayankkk04/Leet_Daily/tree/master/1582-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/mayankkk04/Leet_Daily/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
