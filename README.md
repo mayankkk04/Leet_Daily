@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mayankkk04/Leet_Daily/tree/master/0200-number-of-islands) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/mayankkk04/Leet_Daily/tree/master/0621-task-scheduler) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mayankkk04/Leet_Daily/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/mayankkk04/Leet_Daily/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/mayankkk04/Leet_Daily/tree/master/0547-number-of-provinces) |
 ## Trie
@@ -114,13 +116,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mayankkk04/Leet_Daily/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/mayankkk04/Leet_Daily/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mayankkk04/Leet_Daily/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/mayankkk04/Leet_Daily/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/mayankkk04/Leet_Daily/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mayankkk04/Leet_Daily/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
