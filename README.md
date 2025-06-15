@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/mayankkk04/Leet_Daily/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mayankkk04/Leet_Daily/tree/master/0200-number-of-islands) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0525-contiguous-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/mayankkk04/Leet_Daily/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mayankkk04/Leet_Daily/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/mayankkk04/Leet_Daily/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/mayankkk04/Leet_Daily/tree/master/0547-number-of-provinces) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/mayankkk04/Leet_Daily/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mayankkk04/Leet_Daily/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/mayankkk04/Leet_Daily/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/mayankkk04/Leet_Daily/tree/master/0547-number-of-provinces) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/mayankkk04/Leet_Daily/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mayankkk04/Leet_Daily/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/mayankkk04/Leet_Daily/tree/master/0547-number-of-provinces) |
 ## Graph
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/mayankkk04/Leet_Daily/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mayankkk04/Leet_Daily/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/mayankkk04/Leet_Daily/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/mayankkk04/Leet_Daily/tree/master/0733-flood-fill) |
