@@ -1,41 +1,31 @@
 class Solution {
-    private boolean checkBipartiteBFS(int start, ArrayList<ArrayList<Integer>> adj, int[] vis, int V){
-        Queue<Integer> q = new LinkedList<>();
-        q.add(start);
-        vis[start] = 0;
-        while(!q.isEmpty()){
-            int node = q.poll();
-            for(int it : adj.get(node)){
-                if(vis[it] == -1){
-                    vis[it] = 1 - vis[node];
-                    q.add(it);
-                }
-                else if(vis[it] == vis[node]){
-                    return false;
-                }
+    public boolean isBipartite(int[][] graph) {
+        int n = graph.length;
+        int color[] = new int[n];
+        Arrays.fill(color, -1);
+
+        for(int i = 0; i < n; i++) {
+
+            if(color[i] == -1 && !dfs(i, graph, color, 1)) {
+                return false;
             }
         }
         return true;
     }
-    public boolean isBipartite(int[][] graph) {
-        int V = graph.length;
-        // int n = graph[0].length;
-        int[] vis = new int[V];
-        for(int i = 0 ; i < V ; i++){
-            vis[i] = -1;
-        }
-        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
-        for(int i = 0 ; i < V ; i++){
-            adj.add(new ArrayList<Integer>());
-        }
-        for (int i = 0; i < V; i++) {
-            for (int neighbor : graph[i]) {
-                adj.get(i).add(neighbor);
+
+    private boolean dfs(int currNode, int[][] graph, int[] color, int currColor) {
+        color[currNode] = currColor;
+        for(int nextNode : graph[currNode]) {
+            
+            
+            if(color[nextNode] == -1) { 
+                int nextColor = (currColor == 1) ? 2 : 1;
+                if(!dfs(nextNode, graph, color, nextColor)) {
+                    return false;
+                }
             }
-        }
-        for (int i = 0; i < V; i++) {
-            if (vis[i] == -1) {
-                if (!checkBipartiteBFS(i, adj, vis, V)) {
+            else {
+                if(color[currNode] == color[nextNode]) {
                     return false;
                 }
             }
