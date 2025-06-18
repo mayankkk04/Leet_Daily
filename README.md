@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1256-rank-transform-of-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/1256-rank-transform-of-an-array) |
 | [1582-design-browser-history](https://github.com/mayankkk04/Leet_Daily/tree/master/1582-design-browser-history) |
 | [1876-map-of-highest-peak](https://github.com/mayankkk04/Leet_Daily/tree/master/1876-map-of-highest-peak) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/mayankkk04/Leet_Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mayankkk04/Leet_Daily/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/mayankkk04/Leet_Daily/tree/master/0658-find-k-closest-elements) |
 | [0876-hand-of-straights](https://github.com/mayankkk04/Leet_Daily/tree/master/0876-hand-of-straights) |
 | [1256-rank-transform-of-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/1256-rank-transform-of-an-array) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/mayankkk04/Leet_Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0876-hand-of-straights](https://github.com/mayankkk04/Leet_Daily/tree/master/0876-hand-of-straights) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/mayankkk04/Leet_Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/mayankkk04/Leet_Daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/mayankkk04/Leet_Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
