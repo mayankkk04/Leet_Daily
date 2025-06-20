@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/mayankkk04/Leet_Daily/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/mayankkk04/Leet_Daily/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/mayankkk04/Leet_Daily/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/mayankkk04/Leet_Daily/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/mayankkk04/Leet_Daily/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/mayankkk04/Leet_Daily/tree/master/1073-number-of-enclaves) |
 ## Trie
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/mayankkk04/Leet_Daily/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/mayankkk04/Leet_Daily/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/mayankkk04/Leet_Daily/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/mayankkk04/Leet_Daily/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/mayankkk04/Leet_Daily/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/mayankkk04/Leet_Daily/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/mayankkk04/Leet_Daily/tree/master/1073-number-of-enclaves) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0547-number-of-provinces](https://github.com/mayankkk04/Leet_Daily/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/mayankkk04/Leet_Daily/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/mayankkk04/Leet_Daily/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/mayankkk04/Leet_Daily/tree/master/0820-find-eventual-safe-states) |
 ## Matrix
 |  |
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/mayankkk04/Leet_Daily/tree/master/0820-find-eventual-safe-states) |
+## Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/mayankkk04/Leet_Daily/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
