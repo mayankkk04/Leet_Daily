@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1256-rank-transform-of-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/1256-rank-transform-of-an-array) |
 | [1582-design-browser-history](https://github.com/mayankkk04/Leet_Daily/tree/master/1582-design-browser-history) |
 | [1876-map-of-highest-peak](https://github.com/mayankkk04/Leet_Daily/tree/master/1876-map-of-highest-peak) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/mayankkk04/Leet_Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mayankkk04/Leet_Daily/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0876-hand-of-straights](https://github.com/mayankkk04/Leet_Daily/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/1256-rank-transform-of-an-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mayankkk04/Leet_Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/mayankkk04/Leet_Daily/tree/master/0658-find-k-closest-elements) |
 | [0876-hand-of-straights](https://github.com/mayankkk04/Leet_Daily/tree/master/0876-hand-of-straights) |
 | [1256-rank-transform-of-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/1256-rank-transform-of-an-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/mayankkk04/Leet_Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Prefix Sum
 |  |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/mayankkk04/Leet_Daily/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/mayankkk04/Leet_Daily/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mayankkk04/Leet_Daily/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Counting
 |  |
 | ------- |
