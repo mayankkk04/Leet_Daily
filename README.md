@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0130-surrounded-regions](https://github.com/mayankkk04/Leet_Daily/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mayankkk04/Leet_Daily/tree/master/0200-number-of-islands) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/mayankkk04/Leet_Daily/tree/master/0658-find-k-closest-elements) |
 ## Breadth-First Search
 |  |
