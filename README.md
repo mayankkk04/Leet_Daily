@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/mayankkk04/Leet_Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/mayankkk04/Leet_Daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mayankkk04/Leet_Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/mayankkk04/Leet_Daily/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -243,10 +244,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0268-missing-number](https://github.com/mayankkk04/Leet_Daily/tree/master/0268-missing-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mayankkk04/Leet_Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/mayankkk04/Leet_Daily/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mayankkk04/Leet_Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/mayankkk04/Leet_Daily/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
 |  |
 | ------- |
