@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0813-all-paths-from-source-to-target](https://github.com/mayankkk04/Leet_Daily/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/mayankkk04/Leet_Daily/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/mayankkk04/Leet_Daily/tree/master/1073-number-of-enclaves) |
+| [1300-critical-connections-in-a-network](https://github.com/mayankkk04/Leet_Daily/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/mayankkk04/Leet_Daily/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2793-count-the-number-of-complete-components](https://github.com/mayankkk04/Leet_Daily/tree/master/2793-count-the-number-of-complete-components) |
 ## Trie
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0801-is-graph-bipartite](https://github.com/mayankkk04/Leet_Daily/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/mayankkk04/Leet_Daily/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/mayankkk04/Leet_Daily/tree/master/0820-find-eventual-safe-states) |
+| [1300-critical-connections-in-a-network](https://github.com/mayankkk04/Leet_Daily/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/mayankkk04/Leet_Daily/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mayankkk04/Leet_Daily/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2793-count-the-number-of-complete-components](https://github.com/mayankkk04/Leet_Daily/tree/master/2793-count-the-number-of-complete-components) |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mayankkk04/Leet_Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/mayankkk04/Leet_Daily/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
