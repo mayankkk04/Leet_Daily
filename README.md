@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0820-find-eventual-safe-states](https://github.com/mayankkk04/Leet_Daily/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/mayankkk04/Leet_Daily/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/mayankkk04/Leet_Daily/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2793-count-the-number-of-complete-components](https://github.com/mayankkk04/Leet_Daily/tree/master/2793-count-the-number-of-complete-components) |
 ## Trie
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1073-number-of-enclaves](https://github.com/mayankkk04/Leet_Daily/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/mayankkk04/Leet_Daily/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1876-map-of-highest-peak](https://github.com/mayankkk04/Leet_Daily/tree/master/1876-map-of-highest-peak) |
+| [2793-count-the-number-of-complete-components](https://github.com/mayankkk04/Leet_Daily/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0801-is-graph-bipartite](https://github.com/mayankkk04/Leet_Daily/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/mayankkk04/Leet_Daily/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/mayankkk04/Leet_Daily/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2793-count-the-number-of-complete-components](https://github.com/mayankkk04/Leet_Daily/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0820-find-eventual-safe-states](https://github.com/mayankkk04/Leet_Daily/tree/master/0820-find-eventual-safe-states) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/mayankkk04/Leet_Daily/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mayankkk04/Leet_Daily/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2793-count-the-number-of-complete-components](https://github.com/mayankkk04/Leet_Daily/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
