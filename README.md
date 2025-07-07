@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0130-surrounded-regions](https://github.com/mayankkk04/Leet_Daily/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/mayankkk04/Leet_Daily/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/mayankkk04/Leet_Daily/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/mayankkk04/Leet_Daily/tree/master/0268-missing-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/mayankkk04/Leet_Daily/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mayankkk04/Leet_Daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankkk04/Leet_Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mayankkk04/Leet_Daily/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mayankkk04/Leet_Daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankkk04/Leet_Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/mayankkk04/Leet_Daily/tree/master/0621-task-scheduler) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mayankkk04/Leet_Daily/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/mayankkk04/Leet_Daily/tree/master/0621-task-scheduler) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/mayankkk04/Leet_Daily/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -276,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/mayankkk04/Leet_Daily/tree/master/1300-critical-connections-in-a-network) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mayankkk04/Leet_Daily/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
