@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mayankkk04/Leet_Daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1582-design-browser-history](https://github.com/mayankkk04/Leet_Daily/tree/master/1582-design-browser-history) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/mayankkk04/Leet_Daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/mayankkk04/Leet_Daily/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mayankkk04/Leet_Daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0876-hand-of-straights](https://github.com/mayankkk04/Leet_Daily/tree/master/0876-hand-of-straights) |
 | [1256-rank-transform-of-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/1256-rank-transform-of-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mayankkk04/Leet_Daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/mayankkk04/Leet_Daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/mayankkk04/Leet_Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Prefix Sum
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/mayankkk04/Leet_Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/mayankkk04/Leet_Daily/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mayankkk04/Leet_Daily/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/mayankkk04/Leet_Daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/mayankkk04/Leet_Daily/tree/master/0053-maximum-subarray) |
 | [0542-01-matrix](https://github.com/mayankkk04/Leet_Daily/tree/master/0542-01-matrix) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mayankkk04/Leet_Daily/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/mayankkk04/Leet_Daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/mayankkk04/Leet_Daily/tree/master/3618-find-the-original-typed-string-ii) |
 ## Math
 |  |
