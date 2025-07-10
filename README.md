@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/mayankkk04/Leet_Daily/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/mayankkk04/Leet_Daily/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayankkk04/Leet_Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/mayankkk04/Leet_Daily/tree/master/0130-surrounded-regions) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/mayankkk04/Leet_Daily/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mayankkk04/Leet_Daily/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankkk04/Leet_Daily/tree/master/0349-intersection-of-two-arrays) |
