@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/mayankkk04/Leet_Daily/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mayankkk04/Leet_Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/mayankkk04/Leet_Daily/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/mayankkk04/Leet_Daily/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0189-rotate-array) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mayankkk04/Leet_Daily/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mayankkk04/Leet_Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/mayankkk04/Leet_Daily/tree/master/0542-01-matrix) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mayankkk04/Leet_Daily/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/mayankkk04/Leet_Daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
