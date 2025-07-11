@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/mayankkk04/Leet_Daily/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/mayankkk04/Leet_Daily/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mayankkk04/Leet_Daily/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/mayankkk04/Leet_Daily/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayankkk04/Leet_Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mayankkk04/Leet_Daily/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mayankkk04/Leet_Daily/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/mayankkk04/Leet_Daily/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mayankkk04/Leet_Daily/tree/master/0200-number-of-islands) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mayankkk04/Leet_Daily/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mayankkk04/Leet_Daily/tree/master/0268-missing-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/mayankkk04/Leet_Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
