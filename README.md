@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1036-rotting-oranges](https://github.com/mayankkk04/Leet_Daily/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/mayankkk04/Leet_Daily/tree/master/1073-number-of-enclaves) |
 | [1256-rank-transform-of-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/1256-rank-transform-of-an-array) |
+| [1435-xor-queries-of-a-subarray](https://github.com/mayankkk04/Leet_Daily/tree/master/1435-xor-queries-of-a-subarray) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mayankkk04/Leet_Daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1582-design-browser-history](https://github.com/mayankkk04/Leet_Daily/tree/master/1582-design-browser-history) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0525-contiguous-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0525-contiguous-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/0966-binary-subarrays-with-sum) |
+| [1435-xor-queries-of-a-subarray](https://github.com/mayankkk04/Leet_Daily/tree/master/1435-xor-queries-of-a-subarray) |
 | [3618-find-the-original-typed-string-ii](https://github.com/mayankkk04/Leet_Daily/tree/master/3618-find-the-original-typed-string-ii) |
 ## Greedy
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mayankkk04/Leet_Daily/tree/master/0268-missing-number) |
+| [1435-xor-queries-of-a-subarray](https://github.com/mayankkk04/Leet_Daily/tree/master/1435-xor-queries-of-a-subarray) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mayankkk04/Leet_Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/mayankkk04/Leet_Daily/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
