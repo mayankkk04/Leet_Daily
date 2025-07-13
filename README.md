@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mayankkk04/Leet_Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/mayankkk04/Leet_Daily/tree/master/0038-count-and-say) |
 | [0721-accounts-merge](https://github.com/mayankkk04/Leet_Daily/tree/master/0721-accounts-merge) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/mayankkk04/Leet_Daily/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mayankkk04/Leet_Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/mayankkk04/Leet_Daily/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/mayankkk04/Leet_Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mayankkk04/Leet_Daily/tree/master/0169-majority-element) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mayankkk04/Leet_Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/mayankkk04/Leet_Daily/tree/master/0658-find-k-closest-elements) |
 | [0966-binary-subarrays-with-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/mayankkk04/Leet_Daily/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
