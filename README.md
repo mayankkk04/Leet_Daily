@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/mayankkk04/Leet_Daily/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/mayankkk04/Leet_Daily/tree/master/0733-flood-fill) |
 | [0876-hand-of-straights](https://github.com/mayankkk04/Leet_Daily/tree/master/0876-hand-of-straights) |
+| [0940-fruit-into-baskets](https://github.com/mayankkk04/Leet_Daily/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/mayankkk04/Leet_Daily/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/mayankkk04/Leet_Daily/tree/master/1046-max-consecutive-ones-iii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/mayankkk04/Leet_Daily/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/mayankkk04/Leet_Daily/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/mayankkk04/Leet_Daily/tree/master/0876-hand-of-straights) |
+| [0940-fruit-into-baskets](https://github.com/mayankkk04/Leet_Daily/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/1256-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankkk04/Leet_Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/mayankkk04/Leet_Daily/tree/master/0658-find-k-closest-elements) |
+| [0940-fruit-into-baskets](https://github.com/mayankkk04/Leet_Daily/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/mayankkk04/Leet_Daily/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/mayankkk04/Leet_Daily/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
