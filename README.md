@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0038-count-and-say](https://github.com/mayankkk04/Leet_Daily/tree/master/0038-count-and-say) |
 | [0424-longest-repeating-character-replacement](https://github.com/mayankkk04/Leet_Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/mayankkk04/Leet_Daily/tree/master/0721-accounts-merge) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/mayankkk04/Leet_Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mayankkk04/Leet_Daily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/mayankkk04/Leet_Daily/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3396-valid-word](https://github.com/mayankkk04/Leet_Daily/tree/master/3396-valid-word) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/mayankkk04/Leet_Daily/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/mayankkk04/Leet_Daily/tree/master/1073-number-of-enclaves) |
 | [1256-rank-transform-of-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/1256-rank-transform-of-an-array) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/mayankkk04/Leet_Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/mayankkk04/Leet_Daily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/mayankkk04/Leet_Daily/tree/master/1435-xor-queries-of-a-subarray) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mayankkk04/Leet_Daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -173,12 +175,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0820-find-eventual-safe-states](https://github.com/mayankkk04/Leet_Daily/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/mayankkk04/Leet_Daily/tree/master/1073-number-of-enclaves) |
 | [1300-critical-connections-in-a-network](https://github.com/mayankkk04/Leet_Daily/tree/master/1300-critical-connections-in-a-network) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/mayankkk04/Leet_Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/mayankkk04/Leet_Daily/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2793-count-the-number-of-complete-components](https://github.com/mayankkk04/Leet_Daily/tree/master/2793-count-the-number-of-complete-components) |
 ## Trie
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/mayankkk04/Leet_Daily/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/mayankkk04/Leet_Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Tree
 |  |
 | ------- |
