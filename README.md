@@ -219,11 +219,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/mayankkk04/Leet_Daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mayankkk04/Leet_Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/mayankkk04/Leet_Daily/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/mayankkk04/Leet_Daily/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/mayankkk04/Leet_Daily/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/mayankkk04/Leet_Daily/tree/master/1582-design-browser-history) |
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/mayankkk04/Leet_Daily/tree/master/0234-palindrome-linked-list) |
 | [1582-design-browser-history](https://github.com/mayankkk04/Leet_Daily/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/mayankkk04/Leet_Daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mayankkk04/Leet_Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/mayankkk04/Leet_Daily/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/mayankkk04/Leet_Daily/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankkk04/Leet_Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/mayankkk04/Leet_Daily/tree/master/0658-find-k-closest-elements) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mayankkk04/Leet_Daily/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/mayankkk04/Leet_Daily/tree/master/0234-palindrome-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mayankkk04/Leet_Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/mayankkk04/Leet_Daily/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
