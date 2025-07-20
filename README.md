@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/mayankkk04/Leet_Daily/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/mayankkk04/Leet_Daily/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/mayankkk04/Leet_Daily/tree/master/1582-design-browser-history) |
 ## Stack
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/mayankkk04/Leet_Daily/tree/master/0206-reverse-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mayankkk04/Leet_Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/mayankkk04/Leet_Daily/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
