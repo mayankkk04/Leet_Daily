@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mayankkk04/Leet_Daily/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/mayankkk04/Leet_Daily/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayankkk04/Leet_Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/mayankkk04/Leet_Daily/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/mayankkk04/Leet_Daily/tree/master/0542-01-matrix) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mayankkk04/Leet_Daily/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/mayankkk04/Leet_Daily/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mayankkk04/Leet_Daily/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/mayankkk04/Leet_Daily/tree/master/1370-count-number-of-nice-subarrays) |
@@ -387,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/mayankkk04/Leet_Daily/tree/master/0148-sort-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mayankkk04/Leet_Daily/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
