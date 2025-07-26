@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/mayankkk04/Leet_Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/mayankkk04/Leet_Daily/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mayankkk04/Leet_Daily/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/mayankkk04/Leet_Daily/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1435-xor-queries-of-a-subarray](https://github.com/mayankkk04/Leet_Daily/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/mayankkk04/Leet_Daily/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3618-find-the-original-typed-string-ii](https://github.com/mayankkk04/Leet_Daily/tree/master/3618-find-the-original-typed-string-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/mayankkk04/Leet_Daily/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Greedy
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/mayankkk04/Leet_Daily/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/mayankkk04/Leet_Daily/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Shortest Path
 |  |
 | ------- |
@@ -393,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mayankkk04/Leet_Daily/tree/master/0070-climbing-stairs) |
+## Segment Tree
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/mayankkk04/Leet_Daily/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
