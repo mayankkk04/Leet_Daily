@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mayankkk04/Leet_Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mayankkk04/Leet_Daily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/mayankkk04/Leet_Daily/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2401-count-asterisks](https://github.com/mayankkk04/Leet_Daily/tree/master/2401-count-asterisks) |
 | [3396-valid-word](https://github.com/mayankkk04/Leet_Daily/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/mayankkk04/Leet_Daily/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/mayankkk04/Leet_Daily/tree/master/3618-find-the-original-typed-string-ii) |
