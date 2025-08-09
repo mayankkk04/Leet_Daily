@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/mayankkk04/Leet_Daily/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/mayankkk04/Leet_Daily/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/mayankkk04/Leet_Daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mayankkk04/Leet_Daily/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/mayankkk04/Leet_Daily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/mayankkk04/Leet_Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mayankkk04/Leet_Daily/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/mayankkk04/Leet_Daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mayankkk04/Leet_Daily/tree/master/0268-missing-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/mayankkk04/Leet_Daily/tree/master/1435-xor-queries-of-a-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/mayankkk04/Leet_Daily/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mayankkk04/Leet_Daily/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/mayankkk04/Leet_Daily/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/mayankkk04/Leet_Daily/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/mayankkk04/Leet_Daily/tree/master/0234-palindrome-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mayankkk04/Leet_Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/mayankkk04/Leet_Daily/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
