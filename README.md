@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankkk04/Leet_Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/mayankkk04/Leet_Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/mayankkk04/Leet_Daily/tree/master/0658-find-k-closest-elements) |
+| [0867-new-21-game](https://github.com/mayankkk04/Leet_Daily/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/mayankkk04/Leet_Daily/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/mayankkk04/Leet_Daily/tree/master/1034-subarrays-with-k-different-integers) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayankkk04/Leet_Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/mayankkk04/Leet_Daily/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/mayankkk04/Leet_Daily/tree/master/0542-01-matrix) |
+| [0867-new-21-game](https://github.com/mayankkk04/Leet_Daily/tree/master/0867-new-21-game) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mayankkk04/Leet_Daily/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/mayankkk04/Leet_Daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/mayankkk04/Leet_Daily/tree/master/3618-find-the-original-typed-string-ii) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/mayankkk04/Leet_Daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mayankkk04/Leet_Daily/tree/master/0268-missing-number) |
+| [0867-new-21-game](https://github.com/mayankkk04/Leet_Daily/tree/master/0867-new-21-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/mayankkk04/Leet_Daily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/mayankkk04/Leet_Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/mayankkk04/Leet_Daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -438,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1801-average-time-of-process-per-machine](https://github.com/mayankkk04/Leet_Daily/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/mayankkk04/Leet_Daily/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/mayankkk04/Leet_Daily/tree/master/1908-recyclable-and-low-fat-products) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/mayankkk04/Leet_Daily/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
