@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1510-find-lucky-integer-in-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/mayankkk04/Leet_Daily/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1582-design-browser-history](https://github.com/mayankkk04/Leet_Daily/tree/master/1582-design-browser-history) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mayankkk04/Leet_Daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/mayankkk04/Leet_Daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/mayankkk04/Leet_Daily/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mayankkk04/Leet_Daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1370-count-number-of-nice-subarrays](https://github.com/mayankkk04/Leet_Daily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mayankkk04/Leet_Daily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/mayankkk04/Leet_Daily/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mayankkk04/Leet_Daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/mayankkk04/Leet_Daily/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/mayankkk04/Leet_Daily/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Depth-First Search
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/mayankkk04/Leet_Daily/tree/master/0542-01-matrix) |
 | [0867-new-21-game](https://github.com/mayankkk04/Leet_Daily/tree/master/0867-new-21-game) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mayankkk04/Leet_Daily/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mayankkk04/Leet_Daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/mayankkk04/Leet_Daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/mayankkk04/Leet_Daily/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/mayankkk04/Leet_Daily/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
