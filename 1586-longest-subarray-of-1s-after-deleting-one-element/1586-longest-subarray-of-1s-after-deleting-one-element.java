@@ -16,6 +16,6 @@ class Solution {
                 longest = Math.max(longest,cnt);
             }
         }
-        return (hasZero) ? longest : n-1;
+        return (hasZero) ? longest : longest-1;
     }
 }
