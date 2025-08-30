@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/mayankkk04/Leet_Daily/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/mayankkk04/Leet_Daily/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/mayankkk04/Leet_Daily/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mayankkk04/Leet_Daily/tree/master/0053-maximum-subarray) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankkk04/Leet_Daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/mayankkk04/Leet_Daily/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/mayankkk04/Leet_Daily/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/mayankkk04/Leet_Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/mayankkk04/Leet_Daily/tree/master/0141-linked-list-cycle) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/mayankkk04/Leet_Daily/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/mayankkk04/Leet_Daily/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mayankkk04/Leet_Daily/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mayankkk04/Leet_Daily/tree/master/0073-set-matrix-zeroes) |
