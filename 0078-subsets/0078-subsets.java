@@ -1,14 +1,15 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
+        List<List<Integer>> list = new ArrayList<>();
         int n = nums.length;
-        for(int i = 0 ; i < (1<<n) ; i++ ){  // or i < Math.pow(2,n)
-            List<Integer> res = new ArrayList<>();
-            for(int j = 0 ; j < n ; j++){    // iterating bits of each number and anding it to check for the active bits only
-                if( (i & ( 1<<j )) != 0 ) res.add(nums[j]);
+        int totalset = 1 << n;
+        for(int num = 0 ; num < totalset ; num++){
+            List<Integer> newlist = new ArrayList<>();
+            for(int i = 0 ; i < n ; i++){
+                if((num & (1 << i)) != 0 ) newlist.add(nums[i]);
             }
-            ans.add(res);
+            list.add(newlist);
         }
-        return ans;
+        return list;
     }
 }
