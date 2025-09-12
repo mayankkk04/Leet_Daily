@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayankkk04/Leet_Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mayankkk04/Leet_Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/mayankkk04/Leet_Daily/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/mayankkk04/Leet_Daily/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/mayankkk04/Leet_Daily/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/mayankkk04/Leet_Daily/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0189-rotate-array) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mayankkk04/Leet_Daily/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/mayankkk04/Leet_Daily/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/mayankkk04/Leet_Daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mayankkk04/Leet_Daily/tree/master/0268-missing-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/mayankkk04/Leet_Daily/tree/master/1435-xor-queries-of-a-subarray) |
