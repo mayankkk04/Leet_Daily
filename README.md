@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mayankkk04/Leet_Daily/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/mayankkk04/Leet_Daily/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/mayankkk04/Leet_Daily/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0189-rotate-array) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mayankkk04/Leet_Daily/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/mayankkk04/Leet_Daily/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/mayankkk04/Leet_Daily/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mayankkk04/Leet_Daily/tree/master/0137-single-number-ii) |
