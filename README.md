@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/mayankkk04/Leet_Daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mayankkk04/Leet_Daily/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/mayankkk04/Leet_Daily/tree/master/0507-perfect-number) |
 | [0867-new-21-game](https://github.com/mayankkk04/Leet_Daily/tree/master/0867-new-21-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/mayankkk04/Leet_Daily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/mayankkk04/Leet_Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
