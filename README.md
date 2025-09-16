@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/mayankkk04/Leet_Daily/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/mayankkk04/Leet_Daily/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/mayankkk04/Leet_Daily/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/mayankkk04/Leet_Daily/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/mayankkk04/Leet_Daily/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mayankkk04/Leet_Daily/tree/master/0283-move-zeroes) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/mayankkk04/Leet_Daily/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/mayankkk04/Leet_Daily/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mayankkk04/Leet_Daily/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/mayankkk04/Leet_Daily/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/mayankkk04/Leet_Daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mayankkk04/Leet_Daily/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/mayankkk04/Leet_Daily/tree/master/0507-perfect-number) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mayankkk04/Leet_Daily/tree/master/0204-count-primes) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/mayankkk04/Leet_Daily/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/mayankkk04/Leet_Daily/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Shortest Path
@@ -470,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/mayankkk04/Leet_Daily/tree/master/0867-new-21-game) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mayankkk04/Leet_Daily/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
