@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/mayankkk04/Leet_Daily/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/mayankkk04/Leet_Daily/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/mayankkk04/Leet_Daily/tree/master/0386-lexicographical-numbers) |
+| [0543-diameter-of-binary-tree](https://github.com/mayankkk04/Leet_Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/mayankkk04/Leet_Daily/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/mayankkk04/Leet_Daily/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/mayankkk04/Leet_Daily/tree/master/0733-flood-fill) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/mayankkk04/Leet_Daily/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/mayankkk04/Leet_Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mayankkk04/Leet_Daily/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/mayankkk04/Leet_Daily/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/mayankkk04/Leet_Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mayankkk04/Leet_Daily/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
