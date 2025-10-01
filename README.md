@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/mayankkk04/Leet_Daily/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/mayankkk04/Leet_Daily/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mayankkk04/Leet_Daily/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/mayankkk04/Leet_Daily/tree/master/0226-invert-binary-tree) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/mayankkk04/Leet_Daily/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mayankkk04/Leet_Daily/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mayankkk04/Leet_Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mayankkk04/Leet_Daily/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/mayankkk04/Leet_Daily/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mayankkk04/Leet_Daily/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mayankkk04/Leet_Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mayankkk04/Leet_Daily/tree/master/0789-kth-largest-element-in-a-stream) |
