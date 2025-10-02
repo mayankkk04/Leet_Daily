@@ -14,27 +14,24 @@
  * }
  */
 class Solution {
-    public static int height(TreeNode root){
-        if(root == null || root.left == null && root.right == null) return 0;
-        return 1 + Math.max(height(root.left), height(root.right));
-    }
-    public void nthlevel(TreeNode root, int n, List<Integer> arr){
-        if(root == null) return;
-        if(n == 1) {
-            arr.add(root.val);
-            return;
-        }
-        nthlevel(root.left, n-1, arr);
-        nthlevel(root.right, n-1, arr);
-    }
     public List<List<Integer>> levelOrder(TreeNode root) {
-        int level = height(root)+1;
+        Queue<TreeNode> q = new LinkedList<>();
+        if(root != null) q.add(root);
         List<List<Integer>> ans = new ArrayList<>();
-        if(root == null) return new ArrayList<>();
-        for(int i = 1 ; i <= level ; i++){
+        while (!q.isEmpty()) {
+            int size = q.size(); // number of nodes at current level
             List<Integer> arr = new ArrayList<>();
-            nthlevel(root, i, arr);
-            ans.add(arr);
+
+            for (int i = 0; i < size; i++) {
+                TreeNode temp = q.poll(); // remove from queue
+
+                arr.add(temp.val);
+
+                if (temp.left != null) q.add(temp.left);
+                if (temp.right != null) q.add(temp.right);
+            }
+
+            ans.add(arr); // add whole level
         }
         return ans;
     }
