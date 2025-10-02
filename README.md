@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankkk04/Leet_Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/mayankkk04/Leet_Daily/tree/master/0038-count-and-say) |
+| [0257-binary-tree-paths](https://github.com/mayankkk04/Leet_Daily/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/mayankkk04/Leet_Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/mayankkk04/Leet_Daily/tree/master/0721-accounts-merge) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/mayankkk04/Leet_Daily/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/mayankkk04/Leet_Daily/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mayankkk04/Leet_Daily/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/mayankkk04/Leet_Daily/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/mayankkk04/Leet_Daily/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/mayankkk04/Leet_Daily/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/mayankkk04/Leet_Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/mayankkk04/Leet_Daily/tree/master/0547-number-of-provinces) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/mayankkk04/Leet_Daily/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/mayankkk04/Leet_Daily/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mayankkk04/Leet_Daily/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/mayankkk04/Leet_Daily/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/mayankkk04/Leet_Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mayankkk04/Leet_Daily/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/mayankkk04/Leet_Daily/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/mayankkk04/Leet_Daily/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mayankkk04/Leet_Daily/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/mayankkk04/Leet_Daily/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/mayankkk04/Leet_Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mayankkk04/Leet_Daily/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -397,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0039-combination-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/mayankkk04/Leet_Daily/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/mayankkk04/Leet_Daily/tree/master/0257-binary-tree-paths) |
 | [0813-all-paths-from-source-to-target](https://github.com/mayankkk04/Leet_Daily/tree/master/0813-all-paths-from-source-to-target) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/mayankkk04/Leet_Daily/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Enumeration
