@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0038-count-and-say](https://github.com/mayankkk04/Leet_Daily/tree/master/0038-count-and-say) |
 | [0257-binary-tree-paths](https://github.com/mayankkk04/Leet_Daily/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/mayankkk04/Leet_Daily/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/mayankkk04/Leet_Daily/tree/master/0443-string-compression) |
 | [0721-accounts-merge](https://github.com/mayankkk04/Leet_Daily/tree/master/0721-accounts-merge) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/mayankkk04/Leet_Daily/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mayankkk04/Leet_Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/mayankkk04/Leet_Daily/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/mayankkk04/Leet_Daily/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankkk04/Leet_Daily/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/mayankkk04/Leet_Daily/tree/master/0443-string-compression) |
 | [0658-find-k-closest-elements](https://github.com/mayankkk04/Leet_Daily/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/mayankkk04/Leet_Daily/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mayankkk04/Leet_Daily/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
