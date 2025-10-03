@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1302-delete-characters-to-make-fancy-string](https://github.com/mayankkk04/Leet_Daily/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mayankkk04/Leet_Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mayankkk04/Leet_Daily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/mayankkk04/Leet_Daily/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/mayankkk04/Leet_Daily/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2401-count-asterisks](https://github.com/mayankkk04/Leet_Daily/tree/master/2401-count-asterisks) |
 | [3396-valid-word](https://github.com/mayankkk04/Leet_Daily/tree/master/3396-valid-word) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1370-count-number-of-nice-subarrays](https://github.com/mayankkk04/Leet_Daily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mayankkk04/Leet_Daily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/mayankkk04/Leet_Daily/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2689-rearranging-fruits](https://github.com/mayankkk04/Leet_Daily/tree/master/2689-rearranging-fruits) |
