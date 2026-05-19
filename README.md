@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/mayankkk04/Leet_Daily/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mayankkk04/Leet_Daily/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2540-minimum-common-value](https://github.com/mayankkk04/Leet_Daily/tree/master/2540-minimum-common-value) |
 | [2689-rearranging-fruits](https://github.com/mayankkk04/Leet_Daily/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/mayankkk04/Leet_Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/mayankkk04/Leet_Daily/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1960-check-if-the-sentence-is-pangram](https://github.com/mayankkk04/Leet_Daily/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2540-minimum-common-value](https://github.com/mayankkk04/Leet_Daily/tree/master/2540-minimum-common-value) |
 | [2689-rearranging-fruits](https://github.com/mayankkk04/Leet_Daily/tree/master/2689-rearranging-fruits) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mayankkk04/Leet_Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/mayankkk04/Leet_Daily/tree/master/1046-max-consecutive-ones-iii) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/mayankkk04/Leet_Daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/mayankkk04/Leet_Daily/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2540-minimum-common-value](https://github.com/mayankkk04/Leet_Daily/tree/master/2540-minimum-common-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0908-middle-of-the-linked-list](https://github.com/mayankkk04/Leet_Daily/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mayankkk04/Leet_Daily/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mayankkk04/Leet_Daily/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/mayankkk04/Leet_Daily/tree/master/2540-minimum-common-value) |
 ## Breadth-First Search
 |  |
 | ------- |
