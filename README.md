@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1876-map-of-highest-peak](https://github.com/mayankkk04/Leet_Daily/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mayankkk04/Leet_Daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/mayankkk04/Leet_Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mayankkk04/Leet_Daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1510-find-lucky-integer-in-an-array](https://github.com/mayankkk04/Leet_Daily/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/mayankkk04/Leet_Daily/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/mayankkk04/Leet_Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mayankkk04/Leet_Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2540-minimum-common-value](https://github.com/mayankkk04/Leet_Daily/tree/master/2540-minimum-common-value) |
 | [2689-rearranging-fruits](https://github.com/mayankkk04/Leet_Daily/tree/master/2689-rearranging-fruits) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/mayankkk04/Leet_Daily/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/mayankkk04/Leet_Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mayankkk04/Leet_Daily/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/mayankkk04/Leet_Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Design
 |  |
 | ------- |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/mayankkk04/Leet_Daily/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/mayankkk04/Leet_Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mayankkk04/Leet_Daily/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/mayankkk04/Leet_Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Data Stream
 |  |
 | ------- |
