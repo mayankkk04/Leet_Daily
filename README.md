@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2140-longest-subsequence-repeated-k-times](https://github.com/mayankkk04/Leet_Daily/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2401-count-asterisks](https://github.com/mayankkk04/Leet_Daily/tree/master/2401-count-asterisks) |
 | [3396-valid-word](https://github.com/mayankkk04/Leet_Daily/tree/master/3396-valid-word) |
+| [3612-process-string-with-special-operations-i](https://github.com/mayankkk04/Leet_Daily/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/mayankkk04/Leet_Daily/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/mayankkk04/Leet_Daily/tree/master/3618-find-the-original-typed-string-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mayankkk04/Leet_Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/mayankkk04/Leet_Daily/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mayankkk04/Leet_Daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mayankkk04/Leet_Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/mayankkk04/Leet_Daily/tree/master/3612-process-string-with-special-operations-i) |
 ## Biconnected Component
 |  |
 | ------- |
